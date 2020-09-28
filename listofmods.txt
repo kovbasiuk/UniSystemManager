@@ -1,0 +1,17 @@
+CSC1021, ProgrammingI, 20
+CSC1022, ProgrammingII, 20
+CSC1023, Software Engineering Professional, 20
+CSC1024, Computer Architecture, 20
+CSC1025,	 Mathematics for Computer Science, 20
+CSC1026, Website Design and Construction, 20
+CSC1027, Introduction to cybersecurity,40
+CSC1028, Basic Game development,30
+CSC1029, Artificial Intelligence,10
+CSC2023, Algorithm Design and Analysis, 20
+CSC2024, Database Technology, 20
+CSC2025, Operating Systems, 20
+CSC2026, Computer Networks, 20
+
+
+
+
